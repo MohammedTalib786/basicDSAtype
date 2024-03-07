@@ -23,15 +23,22 @@ function magicalSortingHat(arr) {
     }
 }
 // Run it:
-magicalSortingHat(studentArray)
+// magicalSortingHat(studentArray)
 
 
 
 // Q2 => The Double Trouble: You are tasked with writing a function that doubles each element in an array. However, there's a catch: if the array contains consecutive duplicate elements, only double one of them.
 
-let doubleElems = [1, 'hello', 3, 8, 'world', 78, 90, 10]
+// let doubleElems = [1, 'hello', 3, 8, 'world', 78, 90, 10]
+// let doubleElems = [1, 3, 3, 38, 90, 78, 90, 10, 10, 38, 50, 40]
+let doubleElems = [1, 3, 3, 10]
 function doubleTrouble(arr) {
-
+    console.log(arr)
+    let set = Array.from(new Set(arr))
+    arr.forEach(elem => {
+        set.push(elem)
+    })
+    console.log(set.sort((a, b) => a - b))
 }
 // Run it:
 // doubleTrouble(doubleElems)
@@ -52,9 +59,11 @@ function theMirrorMirror(str) {
 // Q5 => The Sum Selector: You are working on a function that should sum all numbers in an array until it encounters a negative number. Write a function that performs this summation.
 
 let sumArray = [1, 34, 67, 89, 30, 40];
-
+// let asi = [10, 20, 10]
 function theSumSelector(arr) {
-    console.log(arr)
+    let sumNo = 0;
+    arr.forEach(elem => sumNo += elem)
+    console.log(sumNo)
 }
 // Run it:
 // theSumSelector(sumArray)
