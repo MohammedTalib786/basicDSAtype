@@ -1,0 +1,39 @@
+FUNCTIONS
+
+Qs1 => Create a function using the “function” keyword that takes a String as an argument & returns the number of vowels in the string.
+
+Qs2 => Create an arrow function to perform the same task.
+
+Qs3 => For a given array of numbers, print the square of each value using the forEach loop.
+
+Qs4 => We are given array of marks of students. Filter our of the marks of students that scored 90+.
+
+Qs5 => Take a number n as input from user. Create an array of numbers from 1 to n.
+
+Qs6 =>  Use the reduce method to calculate sum of all numbers in the array.
+
+Qs7 => Use the reduce method to calculate product of all numbers in the array.
+
+
+ARRAYS
+
+Qs1 => For a given array with marks of students -> [85, 97, 44, 37, 76, 60] Find the average marks of the entire class.
+
+Qs2 => For a given array with prices of 5 items -> [250, 645, 300, 900, 50] All items have an offer of 10% OFF on them. Change the array to store final price after applying offer
+
+Qs3 => Create an array to store companies -> “Bloomberg”, “Microsoft”, “Uber”, “Google”, “IBM”, “Netflix” 
+a. Remove the first company from the array
+b. Remove Uber & Add Ola in its place
+c. Add Amazon at the end
+
+
+LOOPS
+
+Qs1 => Create a game where you start with any random game number. Ask the user to keep Create a game where you start with any random game number. Ask the user to keep
+
+
+STRINGS
+Qs1 => Prompt the user to enter their full name. Generate a username for them based on the input. Start username with @, followed by their full name and ending with the fullname length.
+eg: user name = “shradhakhapra” , username should be “@shradhakhapra13”
+
+
