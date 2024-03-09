@@ -15,71 +15,53 @@
 15.	Write a function that takes in an array of strings and returns the length of the longest string. (SOLVED)
 16.	write a function that takes in an array of numbers and returns a new array with each number multiplied by 2. (SOLVED)
 17.	Write a function that takes in an array of strings and returns a new array with each string capitalized (SOLVED)
-18.	Write a function that takes in a number and returns the factorial of that number. 
+18.	Write a function that takes in a number and returns the factorial of that number. ???
 19.	Write a function that takes in a string and returns the string reversed. (SOLVED)
 20.	Write a function that takes in an array of numbers and returns the average of the numbers. (SOLVED)
 21.	Write a function that takes in an array of strings and returns a new array with each string reversed. (SOLVED)
-22.	Write a function that takes in an array of objects and returns a new array with the values of a specific property.
-23.	Write a function that takes in a number and returns true if the number is prime, false otherwise.
-24.	Write a function that takes in a string and returns true if the string is a palindrome, false otherwise
+22.	Write a function that takes in an array of objects and returns a new array with the values of a specific property. (SOLVED)
+23.	Write a function that takes in a number and returns true if the number is prime, false otherwise. ???
+24.	Write a function that takes in a string and returns true if the string is a palindrome, false otherwise. (SOLVED)
 25.	Write a function that takes in an array of numbers and returns the largest number in the array. (SOLVED)
-26.	Write a function that takes in an array of strings and returns the shortest string in the array.
-27.	Write a function that takes in a number and returns a new array with all the prime numbers up to that number.
+26.	Write a function that takes in an array of strings and returns the shortest string in the array. ???
+27.	Write a function that takes in a number and returns a new array with all the prime numbers up to that number. ???
 28.	Write a function that takes in a string and returns a new string with all the vowels removed. (SOLVED)
 29.	Write a function that takes in an array of numbers and returns a new array with all the numbers sorted in ascending order. (SOLVED)
-30.	Write a function that takes in an array of strings and returns a new array with all the strings sorted in alphabetical order. 
-31.	Write a function that takes in an array of objects and returns a new array with all the objects sorted by a specific property.
-32.	Write a function that takes in a number and returns the Fibonacci sequence up to that number.
-33.	Write a function that checks if a number is positive or negative.
-34.	Write a function that checks if a string is empty or not.
-35.	Write a function that returns the length of a given string.
-36.	Write a function that returns the sum of two given numbers.
-37.	Write a function that returns the product of two given numbers.
-38.	Write a function that finds the maximum of two given numbers.
-39.	Write a function that finds the minimum of two given numbers.
-40.	Write a function that checks if a given number is even or odd.
-41.	Write a function that checks if a given number is a multiple of 3.
-42.	Write a function that checks if a given number is a multiple of 5.
-43.	Write a function that checks if a given number is a multiple of both 3 and 5.
-44.	Write a function that checks if a given number is prime.
-45.	Write a function that finds the sum of all numbers from 1 to a given number.
-46.	Write a function that finds the product of all numbers from 1 to a given number.
-47.	Write a function that checks if a given string, is a palindrome.
-48.	Write a function that finds the reverse of a given string.
-49.	Write a function that finds the factorial of a given number.
-50.	Write a function that checks if a given string contains a given substring.
-51.	Write a function that removes all vowels from a given string.
-52.	Write a function that checks if a given string is a pangram (contains every letter of the alphabet).
-53.	Write a function that removes duplicate characters from a given string.
-54.	Write a function that sorts an array of numbers in ascending order.
-55.	Write a function that sorts an array of numbers in descending order.
-56.	Write a function that finds the maximum number in an array of numbers.
-57.	Write a function that finds the minimum number in an array of numbers.
-58.	Write a function that calculates the average of an array of numbers.
-59.	Write a function that checks if an array of numbers is sorted in ascending order.
-60.	Write a function that checks if an array of numbers is sorted in descending order.
-61.	Write a function that finds the sum of all numbers in an array of numbers.
-62.	Write a function that finds the product of all numbers in an array of numbers.
-63.	Write a function that finds the factorial of a given number using recursion.
-64.	Write a function that checks if a given number is a power of two.
-65.	Write a function that checks if a given number is a power of three. Write a function that checks if a given number is a power of 10.
-66.	Write a function that checks if a given number, is a perfect square.
-67.	Write a function that checks if a given number, is a perfect cube.
-68.	Write a function that finds the square root of a given number.
-69.	Write a function that finds the cube root of a given number
-70.	Write a function that converts a string to uppercase.
-71.	Write a function that converts a string to lowercase.
-72.	Write a function that converts a string to title case (capitalizes the first letter of each word).
-73.	Write a function that finds the length of the longest word in a given string.
-74.	Write a function that reverses the words in a given string.
-75.	Write a function that capitalizes the first letter of each word in a given string
-76.	Write a function that finds the median of an array of numbers.
-
+30.	Write a function that takes in an array of strings and returns a new array with all the strings sorted in alphabetical order. ()
+31.	Write a function that takes in an array of objects and returns a new array with all the objects sorted by a specific property. ???
+32.	Write a function that takes in a number and returns the Fibonacci sequence up to that number. ???
+33.	Write a function that checks if a number is positive or negative. ()
+34.	Write a function that returns the product of two given numbers. ???
+35. Write a function that finds the maximum of two given numbers. ()
+36. Write a function that finds the minimum of two given numbers. ()
+37. Write a function that checks if a given number is a multiple of 3. (SOLVED)
+38. Write a function that checks if a given number is a multiple of 5. (SOLVED)
+39. Write a function that checks if a given number is a multiple of both 3 and 5. (SOLVED)
+40. Write a function that finds the sum of all numbers from 1 to a given number. (SOLVED)
+41. Write a function that finds the product of all numbers from 1 to a given number.
+42. Write a function that finds the reverse of a given string.
+43. Write a function that checks if a given string contains a given substring.
+44. Write a function that checks if a given string is a pangram (contains every letter of the alphabet).
+45. Write a function that removes duplicate characters from a given string.
+46. Write a function that sorts an array of numbers in ascending order.
+47. Write a function that sorts an array of numbers in descending order.
+48. Write a function that finds the maximum number in an array of numbers.
+49. Write a function that finds the minimum number in an array of numbers.
+50. Write a function that finds the sum of all numbers in an array of numbers.
+51. Write a function that finds the factorial of a given number using recursion.
+52. Write a function that checks if a given number is a power of two.
+53. Write a function that checks if a given number is a power of three. Write a function that checks if a given number is a power of 10.
+54. Write a function that checks if a given number, is a perfect square.
+55. Write a function that checks if a given number, is a perfect cube.
+56. Write a function that finds the square root of a given number.
+57. Write a function that finds the cube root of a given number
+58. Write a function that converts a string to uppercase.
+59. Write a function that converts a string to lowercase.
+60. Write a function that converts a string to title case (capitalizes the first letter of each word).
+61. Write a function that finds the length of the longest word in a given string.
+62. Write a function that capitalizes the first letter of each word in a given string
+63. Write a function that finds the median of an array of numbers.
 
 More Problems: (Easy and Medium)
 
--create a dynamic multiplication table which takes an input and print its table from 1x1 to 1x10.
-
-
-
-
+-create a dynamic multiplication table which takes an input and print its table from 1x1 to 1x10. (Done by Doing its Project)

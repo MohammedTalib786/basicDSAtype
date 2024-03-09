@@ -65,8 +65,3 @@ function getCapitalized(arr) {
 // Run it =>
 getCapitalized(strForCaps)
 
-
-
-
-
-// 18.	Write a function that takes in a number and returns the factorial of that number. (Will get it next Day)
